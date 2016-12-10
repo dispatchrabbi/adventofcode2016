@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2016",
+  "version": "1.0.0",
+  "description": "Solutions for the Advent of Code challenge for 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Morris-Heft",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
